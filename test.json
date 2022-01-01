@@ -1,0 +1,83 @@
+{
+  "menu":[
+    {
+    "Jenis" :"makanan",
+    "nama":"ayam kembung",
+    "deskripsi":"ayam goreng pedes tapi matinya kena angin duduk",
+    "harga":"Rp.120.000",
+    "estimasi":"9 jam",
+    "gambar": "1.png"
+  },
+  {
+    "Jenis" :"makanan",
+    "nama":"ayam wasiat",
+    "deskripsi":"ayam goreng pedes tapi sebelum ayam nya mati udah sempet bagi-bagi warisan",
+    "harga":"Rp.120.000",
+    "estimasi":"9 jam",
+    "gambar": "2.jpg"
+  },
+  {
+    "Jenis" :"makanan",
+    "nama":"ayam tembak",
+    "deskripsi":"ayam goreng pedes tapi di tembak make senapan angin",
+    "harga":"Rp.150.000",
+    "estimasi":"9 jam",
+    "gambar": "3.jpeg"
+  },
+  {
+    "Jenis" :"makanan",
+    "nama":"ayam tabrak",
+    "deskripsi":"ayam goreng pedes tapi ayamnya korban kecelakaan  tabrak lari",
+    "harga":"Rp.120.000",
+    "estimasi":"9 jam",
+    "gambar": "4.jpg"
+  },
+  {
+    "Jenis" :"minuman",
+    "nama":"jeruk peras",
+    "deskripsi":"jeruk yang di peras sarinya dan di minum",
+    "harga":"Rp.500.000",
+    "estimasi":"10 jam",
+    "gambar": "5.jpg"
+  },
+  {
+    "Jenis" :"minuman",
+    "nama":"teh elizabet",
+    "deskripsi":"teh yang diminum oleh putri elizabet",
+    "harga":"Rp.900.000",
+    "estimasi":"11 jam",
+    "gambar": "6.jpg"
+  },
+  {
+    "Jenis" :"desert",
+    "nama":"moccachino cinamon donut",
+    "deskripsi":"donat yang bikin eneg",
+    "harga":"Rp.10.000",
+    "estimasi":"16 jam",
+    "gambar": "7.jpg"
+  },
+  {
+    "Jenis" :"desert",
+    "nama":"matcha milkyway cake",
+    "deskripsi":"kue matcha tapi namanya dibagusin biar enak dimakan",
+    "harga":"Rp.400.000",
+    "estimasi":"21 jam",
+    "gambar": "8.jpg"
+  },
+  {
+    "Jenis" :"desert",
+    "nama":"king gnu cake",
+    "deskripsi":"cheese cake yang ketika dimakan akan kami mainkan semua playlist lagu king gnu",
+    "harga":"Rp.800.000",
+    "estimasi":"4 jam",
+    "gambar": "9.jpg"
+  },
+  {
+    "Jenis" :"desert",
+    "nama":"padang pasir",
+    "deskripsi":"seret seperti pasir karena cuma pasir dikasih gula",
+    "harga":"Rp.800.000",
+    "estimasi":"9 jam",
+    "gambar": "10.jpg"
+  }
+]}
